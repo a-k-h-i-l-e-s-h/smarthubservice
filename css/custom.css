@@ -254,7 +254,7 @@ button {
 
 #shs_name {
     background-clip: text;
-    background-image: linear-gradient(to right, #69fab7, #4ad00c, #046f32);
+    background-image: linear-gradient(to right, #ef1f2c, #ef1f2c, #ef1f2c);
     color: rgb(195, 245, 158);
     font-size: var(--font-size);
     text-shadow: #00e69c;
